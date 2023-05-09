@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/16 11:08:17.000.563,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/16 12:50:48.000.217,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/22 20:06:24.146,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/22 20:06:37.452,D:\99Coders\Posts\285 - Criando um dashboard mobile -----\Fontes\UnitPrincipal.pas=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/22 20:06:37.452,D:\99Coders\Posts\285 - Criando um dashboard mobile -----\Fontes\UnitPrincipal.fmx=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2021/11/22 20:06:44.978,D:\99Coders\Posts\285 - Criando um dashboard mobile -----\Fontes\Graficos.dproj=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/11/22 20:09:58.021,=D:\99Coders\Posts\285 - Criando um dashboard mobile -----\Fontes\Units\uSuperChartLight.pas</Transaction>
+    <Transaction>2021/11/22 20:49:16.442,=D:\99Coders\Posts\285 - Criando um dashboard mobile -----\Fontes\Unit2.pas</Transaction>
+    <Transaction>2021/11/22 20:49:19.700,=D:\99Coders\Posts\285 - Criando um dashboard mobile -----\Fontes\Unit3.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMacMini iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

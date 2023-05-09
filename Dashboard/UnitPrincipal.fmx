@@ -1,0 +1,293 @@
+object FrmPrincipal: TFrmPrincipal
+  Left = 0
+  Top = 0
+  Caption = 'Gr'#225'ficos'
+  ClientHeight = 556
+  ClientWidth = 368
+  Fill.Kind = Solid
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Layout2: TLayout
+    Align = Top
+    Size.Width = 368.000000000000000000
+    Size.Height = 56.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object Label2: TLabel
+      Align = Contents
+      StyledSettings = [Family]
+      Size.Width = 368.000000000000000000
+      Size.Height = 56.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.Font.Size = 22.000000000000000000
+      TextSettings.Font.StyleExt = {00060000000000000004000000}
+      TextSettings.FontColor = xFF383838
+      TextSettings.HorzAlign = Center
+      Text = 'Dashboard'
+      TabOrder = 3
+    end
+    object img_refresh: TImage
+      MultiResBitmap.Height = 64
+      MultiResBitmap.Width = 64
+      MultiResBitmap = <
+        item
+          Width = 64
+          Height = 64
+          PNG = {
+            89504E470D0A1A0A0000000D4948445200000040000000400806000000AA6971
+            DE000000017352474200AECE1CE90000000467414D410000B18F0BFC61050000
+            047349444154785EED9A4BACD54418C7AFA0F840109F10A34062DC4988A2889A
+            280B58885B484408E0CEC41771E1C29D9105BE827143A2249A6860215B650341
+            312A41A3415869D820C407BE1F8882C1FFEF749AF4365F7BA6EDCC393DF7F497
+            FCD29EDC73A7A75FDB6FA6F3CD44474747C73833DD6D47996972937C5ADE2A0F
+            CBBFE5D8F09C3C9FF14B39438E0DBFC96C0070A5F4E202B78DCDD572A9F30E79
+            A39CEDE46AFD247F90DFCB2FE447F213F9BBEC07279C678DDC9DEC0E8F99729D
+            DC23CFC9FC55EAE77F729FA48D4B6511D6FFAE964383ABCA73F987B47E5C1D7F
+            95CFCB39328FF5FDA104E042B9599E92D68F0AE18FF23179914CB1BE37F000DC
+            203F94D68F8921F9816382F577EF00844882ABE45BF2AADEA772BE939FCB23F2
+            B83C23FF9157CAF9F226799F2469F683BBE141B9B7F76932034B820F49929575
+            15524FCA1724D9DF27E00C6C6E935B25BD83D5666AD1B107F208909DCB4E9E2E
+            ED497989AC0BD9FF115935AF440FC0FDB2ECE4DF90B3642878245E97D6B12CA3
+            0680414CD1AD795AF25CC682BB8E9C611D3B6BB42448F7F3BEBCBBF76932F4FB
+            0F487A83262C963727BB26F748BADB32A225C127A41571AEFC9DB229DBA4D57E
+            55A33C028CC28A6EFDF5B2295C79ABED3A7A07802EC79767A4D5D7BF26DF4E76
+            1BB1D06D43C0BB47502E977FCA7CA4198C58E3F33ACC957FC9FC31AA4A1BB415
+            14665CAC833D2A43C27BFC57D23A968FFCAFF75C4015C8FCF9833138198B9917
+            0621F993C797E45840DF6E0560911C797C7A81BBDC36CBCFF268B23BDAF804E0
+            76B7CD725072178C3C3E0198E7B659789F6F23E4AB2D72A77C585619E7147242
+            E69FFFA764DBA047A22690FD9DCC4D36862A4BB651DC20DB06FD7FFE77523328
+            C5E716F9D76DB37CEBB66DE27AB7CD929D3C35F109C0AB6E9BC2F3FF41B2DB2A
+            AE71DB2CBCBC3586209150482C24189F09CB61C01C62FE11A0CA3436BC27F301
+            A02A554A906EA205701ECB92DD497CE6B6854C9500DC22A92DE4A1803216BC2C
+            F3B73FB6355F058501905537D82F83D3C6090B8AA5D6B136CAA0B471CA8AE7DE
+            9AA8658A9EF5097DA99204792DBE2CD96D046D5819BB0EAC19B0266AB74B021D
+            14A69AF391AE2B53E04DE17DC46A3BE444ED24420580E2475328C2508CB1DA7F
+            5C7A53A5344600DE49760B7945B2C0A988AF25EBF89A70AF7C5732559FE763B9
+            5C9EED7D0A8CCF1D40E19202662C28BC165D796EFD74D54814AA3C023B64C841
+            08A5F637A5752CA4544FC93E2A5573008313163734E939585C412598C516D631
+            909367A54A748A0250B65002E9A779555D227DBA5DF2120B2A5F942CAFB1DA4C
+            E5D86B656D4224C1157297BCB6F7A91C8271401E932C92FA455EEC5C20A935B0
+            E0D99A88CD435B7485BC060F84A23B00483EBC79597F8F21418C9AF02CCA0200
+            CCBF512C8DB95092B65978C5A2CC81D32F0029574886A82C6FB5BE5F47C6F6CF
+            4A96E10E0DDF00A490FD1913B0E0B95FA2B4649103CF3719DEEBC5A60E2192A0
+            4F1B5C395E8058E0C422C8EB9CCCE4327862593C7E233F95879CD4205B43ADC2
+            C354225AE9699488527CECE8E8E8E8180A1313FF03B071D8507938317F000000
+            0049454E44AE426082}
+          FileName = 
+            'D:\99Coders\99 Experience\Curso\08 - Bonus 3\03 - Graficos sem c' +
+            'omponentes de terceiros\FontesFull\Images\refresh2.png'
+        end>
+      Align = Right
+      Opacity = 0.899999976158142100
+      Margins.Right = 10.000000000000000000
+      Position.X = 317.000000000000000000
+      Size.Width = 41.000000000000000000
+      Size.Height = 56.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = img_refreshClick
+    end
+  end
+  object VertScrollBox1: TVertScrollBox
+    Align = Client
+    Size.Width = 368.000000000000000000
+    Size.Height = 500.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Viewport.Width = 352.000000000000000000
+    Viewport.Height = 500.000000000000000000
+    object Rectangle1: TRectangle
+      Align = Top
+      Fill.Color = xFF487DF7
+      Margins.Left = 10.000000000000000000
+      Margins.Top = 20.000000000000000000
+      Margins.Right = 10.000000000000000000
+      Position.X = 10.000000000000000000
+      Position.Y = 20.000000000000000000
+      Size.Width = 332.000000000000000000
+      Size.Height = 190.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Kind = None
+      XRadius = 6.000000000000000000
+      YRadius = 6.000000000000000000
+      object layout_chart1: TLayout
+        Align = Client
+        Margins.Left = 15.000000000000000000
+        Margins.Top = 20.000000000000000000
+        Margins.Right = 15.000000000000000000
+        Margins.Bottom = 12.000000000000000000
+        Size.Width = 302.000000000000000000
+        Size.Height = 158.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 0
+      end
+    end
+    object Rectangle2: TRectangle
+      Align = Top
+      Fill.Color = claWhite
+      Margins.Left = 20.000000000000000000
+      Margins.Top = 20.000000000000000000
+      Margins.Right = 20.000000000000000000
+      Margins.Bottom = 20.000000000000000000
+      Position.X = 20.000000000000000000
+      Position.Y = 230.000000000000000000
+      Size.Width = 312.000000000000000000
+      Size.Height = 190.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Kind = None
+      object layout_chart2: TLayout
+        Align = Client
+        Margins.Left = 10.000000000000000000
+        Margins.Top = 5.000000000000000000
+        Margins.Right = 10.000000000000000000
+        Margins.Bottom = 5.000000000000000000
+        Size.Width = 292.000000000000000000
+        Size.Height = 180.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 0
+      end
+    end
+    object Rectangle3: TRectangle
+      Align = Top
+      Fill.Color = claWhite
+      Margins.Left = 20.000000000000000000
+      Margins.Top = 10.000000000000000000
+      Margins.Right = 20.000000000000000000
+      Margins.Bottom = 20.000000000000000000
+      Position.X = 20.000000000000000000
+      Position.Y = 450.000000000000000000
+      Size.Width = 312.000000000000000000
+      Size.Height = 190.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Kind = None
+      object layout_chart3: TLayout
+        Align = Client
+        Margins.Left = 10.000000000000000000
+        Margins.Top = 5.000000000000000000
+        Margins.Right = 10.000000000000000000
+        Margins.Bottom = 5.000000000000000000
+        Size.Width = 292.000000000000000000
+        Size.Height = 180.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 0
+        object ArcBase1: TArc
+          Align = Center
+          Margins.Right = 140.000000000000000000
+          Size.Width = 100.000000000000000000
+          Size.Height = 100.000000000000000000
+          Size.PlatformDefault = False
+          Stroke.Color = xFFE0E0E0
+          Stroke.Thickness = 6.000000000000000000
+          EndAngle = 360.000000000000000000
+          object ArcValor1: TArc
+            Align = Client
+            Size.Width = 100.000000000000000000
+            Size.Height = 100.000000000000000000
+            Size.PlatformDefault = False
+            Stroke.Color = xFF919BD3
+            Stroke.Thickness = 6.000000000000000000
+            EndAngle = 220.000000000000000000
+            object lblValor1: TLabel
+              Align = Contents
+              StyledSettings = [Family]
+              Size.Width = 100.000000000000000000
+              Size.Height = 100.000000000000000000
+              Size.PlatformDefault = False
+              TextSettings.Font.Size = 14.000000000000000000
+              TextSettings.FontColor = xFF383838
+              TextSettings.HorzAlign = Center
+              Text = '0,00'
+              TabOrder = 3
+            end
+            object AnimationArc1: TFloatAnimation
+              AnimationType = InOut
+              Duration = 1.200000047683716000
+              Interpolation = Circular
+              PropertyName = 'EndAngle'
+              StartValue = 0.000000000000000000
+              StopValue = 0.000000000000000000
+            end
+          end
+        end
+        object ArcBase2: TArc
+          Align = Center
+          Margins.Left = 140.000000000000000000
+          Size.Width = 100.000000000000000000
+          Size.Height = 100.000000000000000000
+          Size.PlatformDefault = False
+          Stroke.Color = xFFE0E0E0
+          Stroke.Thickness = 6.000000000000000000
+          EndAngle = 360.000000000000000000
+          object ArcValor2: TArc
+            Align = Client
+            Size.Width = 100.000000000000000000
+            Size.Height = 100.000000000000000000
+            Size.PlatformDefault = False
+            Stroke.Color = xFF919BD3
+            Stroke.Thickness = 6.000000000000000000
+            EndAngle = 220.000000000000000000
+            object lblValor2: TLabel
+              Align = Contents
+              StyledSettings = [Family]
+              Size.Width = 100.000000000000000000
+              Size.Height = 100.000000000000000000
+              Size.PlatformDefault = False
+              TextSettings.Font.Size = 14.000000000000000000
+              TextSettings.FontColor = xFF383838
+              TextSettings.HorzAlign = Center
+              Text = '0,00'
+              TabOrder = 3
+            end
+            object AnimationArc2: TFloatAnimation
+              AnimationType = InOut
+              Duration = 1.200000047683716000
+              Interpolation = Circular
+              PropertyName = 'EndAngle'
+              StartValue = 0.000000000000000000
+              StopValue = 0.000000000000000000
+            end
+          end
+        end
+      end
+    end
+    object Layout1: TLayout
+      Align = Top
+      Position.Y = 660.000000000000000000
+      Size.Width = 352.000000000000000000
+      Size.Height = 61.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      object Label1: TLabel
+        Align = Center
+        StyledSettings = [Family, Style]
+        HitTest = True
+        Margins.Right = 100.000000000000000000
+        Size.Width = 93.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.Size = 16.000000000000000000
+        TextSettings.FontColor = xFF464646
+        TextSettings.HorzAlign = Center
+        Text = 'Form 2'
+        TabOrder = 1
+        OnClick = Label1Click
+      end
+      object Label3: TLabel
+        Align = Center
+        StyledSettings = [Family, Style]
+        HitTest = True
+        Margins.Left = 100.000000000000000000
+        Size.Width = 93.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.Size = 16.000000000000000000
+        TextSettings.FontColor = xFF464646
+        TextSettings.HorzAlign = Center
+        Text = 'Form 3'
+        TabOrder = 0
+        OnClick = Label3Click
+      end
+    end
+  end
+end
